@@ -5,21 +5,21 @@ Reduced time for filling extensive forms on the site manually using voice instea
 ![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/c3f41b7c-1492-403a-a772-3bbb811ba960)
 
 ### MSS Entry Page
-![internship-project-screenshot2](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/e7e610bc-a104-43e5-bd98-44f9a075e52c)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/0467c251-8617-4867-b578-e9cd7f981110)
 ### MSS Proposal Form Page
-![internship-project-screenshot3](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/19580d5a-33ba-4b74-b50a-a6e3ed5a33d8)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/e2b9c3a3-36de-48c4-bf51-cfddca9d8eee)
 ###
-![internship-project-screenshot4](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/4335287f-640e-484e-b49e-132fd40a46de)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/506cd05a-a009-4e0a-a8dc-1238d6337765)
 
 ### Group MSS Page
-![internship-project-screenshot5](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/1f1d6a38-5ab3-47fa-bb77-7dc14638c296)
-![internship-project-screenshot6](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/634b7c2b-671d-4370-85b0-08dd4e9ce844)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/00961d03-7865-4200-a598-aa0c8205da28)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/dacb1178-eb09-4b25-a529-f9daf17f3aaf)
 ### Group MSS - Modify Entry Page - SECTION 1
-![internship-project-screenshot7](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/a80a989d-5e3d-400b-ba4d-0946f7a6ac1d)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/ecb8fe71-c1dc-4bc9-9738-c831659732f3)
 ### Group MSS - Modify Entry Page - SECTION 2 
-![internship-project-screenshot8](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/a6eda05b-441e-4470-b9ad-3291fa529d02)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/0eab592b-1eaf-47c2-8c2a-48ba504666fb)
 ### Group MSS - Modify Entry Page - SECTION 2 - ALAN AI FILLING FORM USING VOICE COMMANDS
-![internship-project-screenshot9_alanAI](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/f424fbe7-4b85-4f6f-b8fa-3c8a2470e66f)
-![internship-project-screenshot10_alanAI](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/d0a281ec-0a6c-4c90-bc84-c0aacdb471bf)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/dec959b7-6459-4bc3-b0a4-34bd2c1f287a)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/15adc239-f3e6-4efc-8b29-c36cee45b602)
 ### Group MSS - Modify Entry Page - SECTION 4
-![internship-project-screenshot11](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/7bc622fa-098c-4264-aa37-c1d3eec1a7dd)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/31a2bf4a-f9ca-4dd4-95db-024dbb752cf4)
