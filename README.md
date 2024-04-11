@@ -2,7 +2,7 @@ Improved the UI of an existing portal for the company. This is made using ReactJ
 Reduced time for filling extensive forms on the site manually using voice instead with the help of Alan AI. 
 
 ### Home Page
-![internship-project-screenshot1](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/531acb49-1a57-432c-8063-3f3608f657b7)
+![image](https://github.com/ViditaShetty/Internship-Project-ReactJS-ALAN-AI/assets/96463276/c3f41b7c-1492-403a-a772-3bbb811ba960)
 
 ### MSS Entry Page
 ![internship-project-screenshot2](https://github.com/ViditaShetty/Internship-Project-ReactJS/assets/96463276/e7e610bc-a104-43e5-bd98-44f9a075e52c)
